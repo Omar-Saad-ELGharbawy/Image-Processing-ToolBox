@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/UploadIcon.png</file>
+        <file>Icons/FilterIcon.png</file>
+        <file>Icons/DropDownIcon.png</file>
+        <file>Icons/NoiseIcon.png</file>
+        <file>Icons/Histogram.png</file>
+        <file>Icons/convert_color_to_gray.png</file>
+        <file>Icons/edge_detection.png</file>
+        <file>Icons/Threshold.jpg</file>
+        <file>Icons/hybrid.png</file>
+        <file>Icons/close.png</file>
+        <file>Icons/alpha.png</file>
+        <file>Icons/beta.png</file>
+        <file>Icons/gamma.png</file>
+        <file>Icons/Snake.png</file>
+        <file>Icons/SIFT.png</file>
+        <file>Icons/Sidebar.png</file>
+        <file>Icons/sidebar-2-512.png</file>
+        <file>Icons/contrast.png</file>
+        <file>Icons/hough transform icon.ico</file>
+        <file>Icons/hough white back.png</file>
+        <file>Icons/hough_transform_icon-removebg-preview.png</file>
+        <file>Icons/edge_detection2.png</file>
+        <file>Icons/harris.png</file>
+        <file>Icons/segmentation-icon.png</file>
+    </qresource>
+</RCC>
