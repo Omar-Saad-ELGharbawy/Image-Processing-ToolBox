@@ -794,7 +794,7 @@ void MainWindow::on_hybrid_tab_btn_clicked()
 void MainWindow::on_active_contour_tab_btn_clicked()
 {
     ui->stackedWidget->setCurrentIndex(4);
-    MODE = 1;
+//    MODE = 1;
 }
 
 void MainWindow::on_hough_transfrom_tab_btn_clicked()
