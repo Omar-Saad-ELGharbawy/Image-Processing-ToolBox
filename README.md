@@ -7,6 +7,7 @@
 - [Quick Preview](#quick-preview)
 - [Requirements to run](#Requirements-to-run)
 - [Try a demo](#Try-a-demo)
+- [Reports](#Reports)
 - [Team]()
 
 
@@ -89,6 +90,10 @@ The ToolKit is built using:
 ### Try a demo
 
 [ Download Here !](https://www.mediafire.com/file/xefpiecn6spkh7p/ToolKit-Setup.exe/file)
+
+### Reports
+You can find detailed reports about each algorithm implemented in
+this project [here](https://github.com/Omar-Saad-ELGharbawy/Image_Processing/tree/main/Reports)
 
 
 ### Team
